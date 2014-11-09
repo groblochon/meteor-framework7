@@ -9,9 +9,10 @@ If you need function of Framework7, add layout.html(example,,,)
   var $$ = Dom7;
 ```
 
-[see more](http://www.idangero.us/framework7/docs/init-app.html#.VF7YCPmsXcw){target="_blank"}
+
+<a href="http://www.idangero.us/framework7/docs/init-app.html#.VF7YCPmsXcw" target="_blank">See more..</a>
 
 and...
-[more](http://www.idangero.us/framework7/docs/dom.html#.VF7Yc_msXcw){target="_blank"}
 
+<a href="http://www.idangero.us/framework7/docs/dom.html#.VF7Yc_msXcw" target="_blank">more..</a>
 
