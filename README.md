@@ -1,7 +1,7 @@
 meteor-framework7
 ==========
 
-Framework7 for Meteor
+Framework7(v0.9.8) for Meteor
 
 If you need function of Framework7, add layout.html(example,,,)
 ```
