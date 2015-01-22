@@ -1,14 +1,15 @@
 Package.describe({
   name: 'pcjpcj2:framework7',
-  summary: "Framework7 (v0.10.0) for Meteor"
-  version: '0.10.0',
+  summary: "Framework7 (v0.10.0) for Meteor",
+  version: '0.10.1',
   git: 'https://github.com/pcjpcj2/meteor-framework7'
 });
 
 Package.on_use(function (api) {
 
-  api.add_files('framework7/css/framework7.css', 'client');
-  api.add_files('framework7/js/framework7.js', 'client');
+  api.add_files('framework7/css/framework7.min.css', 'client');
+  api.add_files('framework7/css/framework7.themes.min.css', 'client');
+  api.add_files('framework7/js/framework7.min.js', 'client');
 
   api.add_files([
     'framework7/img/i-f7.png',
