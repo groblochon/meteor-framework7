@@ -16,3 +16,6 @@ and...
 
 <a href="http://www.idangero.us/framework7/docs/dom.html#.VF7Yc_msXcw" target="_blank">more..</a>
 
+
+
+Changed to minified version and Added Theme.

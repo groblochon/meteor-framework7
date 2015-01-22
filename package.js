@@ -1,7 +1,7 @@
 Package.describe({
   name: 'pcjpcj2:framework7',
   summary: "Framework7 (v0.10.0) for Meteor",
-  version: '0.10.1',
+  version: '0.10.10',
   git: 'https://github.com/pcjpcj2/meteor-framework7'
 });
 
